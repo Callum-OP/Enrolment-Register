@@ -1,0 +1,18 @@
+ben 05/02/2002 cityside male
+adam 13/04/2001 plainstreet male
+john 17/03/2001
+kate
+paul 16/03/2002
+jacob
+hannah
+andy
+paula
+finn
+lara
+james
+louis
+claire
+mark
+chloe
+lucy
+name: bill dob: 09/11/2001 address: 9 plainstreet belfast gender: male
